@@ -4,6 +4,21 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 	font-family: 'Open Sans', sans-serif;
 			}
 
+ul {
+	position:fixed;
+	list-style: none;
+	width:100%;
+	background-color: black;
+}
+
+li a{
+	float:left;
+	padding-right:20px;
+	text-decoration: none;
+}
+
+li a:hover {background-color: pink}
+
 #introduccion{/* selecciona el div y lo pinta */
 	width: 900px;
 	padding: 20px 0px;
