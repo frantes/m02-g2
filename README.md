@@ -3,3 +3,4 @@
 Francisca Brantes
 Martina Almonacid
 Fernanda Loyola
+Ignacia Daccarett
