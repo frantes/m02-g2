@@ -5,3 +5,4 @@ Martina Almonacid
 Fernanda Loyola
 Ignacia Daccarett
 Santiago Tagle
+Magdalena Mira
