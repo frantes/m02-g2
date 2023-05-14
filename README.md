@@ -6,3 +6,4 @@ Fernanda Loyola
 Ignacia Daccarett
 Santiago Tagle
 Magdalena Mira
+Josetomás Escobar
