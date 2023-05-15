@@ -7,3 +7,4 @@ Ignacia Daccarett
 Santiago Tagle
 Magdalena Mira
 Josetomás Escobar
+José Díaz
