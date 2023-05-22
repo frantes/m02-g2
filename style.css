@@ -253,7 +253,7 @@ body
   color: #D8DEE1;
 }
 .imguv {
-  position: absolute;
+  position: relative;
 margin-left: 300px;
 padding-bottom: 30px;
 }
@@ -263,32 +263,36 @@ padding-bottom: 30px;
   position: relative;
 
 }
-.Uncanny1{
+.todouncanny1{
   margin:30px;
   width: 750px;
+  display: inline-flex;
   
 }
 .textos{
   display: inline-flex;
+  position: absolute;
 }
 .titulo1{
-  padding-left: 900px;
+  padding-left: 1000px;
   color:#001F2F;
 }
 .imagen1{
-  border-radius: 60%;
-  border-color: #001F2F;
-  width: 250px;
-  position:absolute;
+  border-radius:50%;
+  border: 10px #001F2F;
+  width: 300px;
+  postiton:absolute;
+  margin-left: 70px;
+
 }
 .texto1{
-  padding-left:70px;
-  width:350px;
+  margin-left:400px;
+  width:500px;
   padding-top:10px;
 }
 .texto2{
-  padding-left:70px;
-  width:350px;
+  margin-left:30px;
+  width:500px;
   padding-top:10px;
 
 }
@@ -308,41 +312,46 @@ padding-bottom: 30px;
 .imagen2{
   border-radius: 60%;
   border-color: #001F2F;
-  width: 250px;
+  width: 300px;
   position:absolute;
+  margin-left:1100px;
 }
 .texto3{
   padding-left:70px;
-  width:350px;
+  width:500px;
   padding-top:10px;
 }
 .texto4{
   padding-left:70px;
-  width:350px;
+  width:500px;
   padding-top:10px;
 
 }
 
 .mario{
-  margin:30px;
+  margin:90px;
   width: 750px;
+  height: 750px;
   
 }
 
 .titulo3{
-  padding-left: 200px;
+  padding-left: 500px;
   color:#001F2F;
+  width: 500px;
 }
 .imagen3{
   border-radius: 60%;
   border-color: #001F2F;
   width: 250px;
   position:absolute;
+  margin-left: 200px;
 }
 .texto5{
-  padding-left:70px;
-  width:350px;
+  margin-left:500px;
+  width:900px;
   padding-top:10px;
+  position: absolute;
 }
 
 .titulo4{
@@ -366,7 +375,7 @@ padding-bottom: 30px;
   border-radius: 60%;
   border-color: #001F2F;
   width: 250px;
-  position:absolute;
+  position:relative;
 }
 .texto6{
   padding-left:70px;
@@ -395,7 +404,7 @@ padding-bottom: 30px;
   border-radius: 60%;
   border-color: #001F2F;
   width: 250px;
-  position:absolute;
+  position:relative;
 }
 .texto8{
   padding-left:70px;
@@ -424,7 +433,7 @@ padding-bottom: 30px;
   border-radius: 60%;
   border-color: #001F2F;
   width: 250px;
-  position:absolute;
+  position:relative;
 }
 .texto10{
   padding-left:70px;
@@ -456,9 +465,3 @@ padding-bottom: 30px;
   width:350px;
   padding-top:10px;
 }
-.fotito1 {width: 150px}
-.fotito2 {width: 100px}
-.fotito3 {width: 100px}
-.fotito4 {width: 200px}
-.fotito5 {width: 100px}
-.fotito6 {width: 100px}
