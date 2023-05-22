@@ -242,3 +242,17 @@ body
   width: 100%;
   height: 100%;
 }
+
+.uncannyvalley {
+  background-color: #04131B;
+  float: left;
+  position: relative;
+  padding-left: 90px;
+  padding-top: 90px;
+  padding-right: 0px;
+  color: #D8DEE1;
+}
+.uncannyvaley img {
+  position: absolute;
+margin-left: 300px;
+}
